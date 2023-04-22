@@ -1,0 +1,77 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.container {
+    width: 450px;
+    margin: 0 auto;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+.oldagram-img {
+    width: 150px;
+}
+
+header {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+.kamal-img, .kamal-img2 {
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+}
+
+section {
+    display: flex;
+}
+
+.kamal-img2 {
+    margin-right: 15px;
+}
+
+.names {
+    margin-top: -10px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.city {
+    margin-top: -10px;
+}
+
+.ram-img {
+    width: 450px;
+    height: 450px;
+    margin-bottom: 5px;    
+}
+
+.icons {
+    width: 35px;
+    margin-right: 10px;
+}
+
+.likes {
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.comment {
+    margin-left: 5px;
+    margin-top: -4px;
+}
+
+span {
+    font-weight: bold
+}
